@@ -8,6 +8,7 @@ version = "0.1.0"
 
 [dependencies]
 python = "3.11.*"
+transforms3d = ">=0.4.2,<0.5"
 
 [pypi-dependencies]
 sapien = ">=3.0.3, <4"
